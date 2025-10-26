@@ -1,2 +1,2 @@
 #My Slesforce Trailhead Link!!!
-[Click here to visit my Trailhead](https://trailhead.salesforce.com/users/trailblazerconnect/trailmixes/get-started-with-salesforce-fundamentals-trailmix) 
+[Click here to visit my Trailhead](https://www.salesforce.com/trailblazer/yuvaranivenkatesan)
